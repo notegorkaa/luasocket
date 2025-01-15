@@ -1,5 +1,5 @@
 package = "LuaSocket"
-version = "3.1.0-1"
+version = "master-1"
 source = {
   url = "git+https://github.com/lunarmodules/luasocket.git",
   branch = "master"
